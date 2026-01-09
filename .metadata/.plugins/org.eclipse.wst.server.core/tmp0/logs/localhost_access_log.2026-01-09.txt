@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Jan/2026:13:14:50 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:14:53 +0530] "GET /SpringwebResturantSample/ HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:14:53 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:18:18 +0530] "GET /SpringwebResturantSample/ HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:18:20 +0530] "GET /SpringwebResturantSample/ HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:18:20 +0530] "GET /SpringwebResturantSample/ HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:19:16 +0530] "GET /SpringwebResturantSample/ HTTP/1.1" 200 1212
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:19:40 +0530] "GET /SpringwebResturantSample/login HTTP/1.1" 200 149
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:20:34 +0530] "GET /SpringwebResturantSample/login HTTP/1.1" 200 1521
+0:0:0:0:0:0:0:1 - - [09/Jan/2026:13:24:18 +0530] "GET /SpringwebResturantSample/login HTTP/1.1" 200 1521

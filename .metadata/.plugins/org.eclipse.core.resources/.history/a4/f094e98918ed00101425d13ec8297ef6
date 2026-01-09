@@ -1,0 +1,5 @@
+package com.kodbuzz.controller;
+
+public class NavigationController {
+
+}

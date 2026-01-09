@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/abinashdas/Desktop/Temp practice/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+75158393.index
+1756447511.index
+2327049114.index
+3532228906.index
+4145230119.index
+2026970208.index
+4024254365.index
+2003849463.index
