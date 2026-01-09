@@ -1,9 +1,7 @@
-INDEX VERSION 1.4+/Users/abinashdas/Desktop/Temp practice/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-75158393.index
-1756447511.index
-2327049114.index
-3532228906.index
-4145230119.index
-2026970208.index
-4024254365.index
-2003849463.index
+INDEX VERSION 1.4+C:\Advance java Practice\Advance-Java-Practice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1623332025.index
+1864029526.index
+1652791137.index
+1881919933.index
+3101237650.index
+1404251043.index
