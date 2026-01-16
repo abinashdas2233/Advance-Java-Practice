@@ -1,0 +1,32 @@
+package com.password.bean;
+
+public class ResetPasswordBean {
+	private String email;
+	private String newPassword;
+	public ResetPasswordBean() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getNewPassword() {
+		return newPassword;
+	}
+	public void setNewPassword(String newPassword) {
+		this.newPassword = newPassword;
+	}
+	public ResetPasswordBean(String email, String newPassword) {
+		super();
+		this.email = email;
+		this.newPassword = newPassword;
+	}
+	@Override
+	public String toString() {
+		return "ResetPasswordBean [email=" + email + ", newPassword=" + newPassword + "]";
+	}
+	
+}
