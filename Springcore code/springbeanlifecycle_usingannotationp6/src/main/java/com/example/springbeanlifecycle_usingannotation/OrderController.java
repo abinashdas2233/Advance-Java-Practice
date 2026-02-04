@@ -1,5 +1,7 @@
 package com.example.springbeanlifecycle_usingannotation;
 
+import java.util.HashSet;
+
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -13,6 +15,7 @@ public class OrderController {
         System.out.println(order);
 
         // VERY IMPORTANT: triggers @PreDestroy
+       
         context.registerShutdownHook();
     }
 }
